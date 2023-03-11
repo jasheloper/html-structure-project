@@ -2,6 +2,8 @@
 
 To test knowledge of web page structures, and how to represent a prospective layout design in markup.
 
+https://jasheloper.github.io/html-structure-project/
+
 <br>
 
 ## Project Guidelines
